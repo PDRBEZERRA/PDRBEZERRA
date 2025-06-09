@@ -3,10 +3,10 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      ソフトウェア開発者
     </b>
       <br>
-      Hi there! I'm Kamilly Medino
+      Hi there! I'm Pedro Augusto
       <br>
   </samp>
 </div>
