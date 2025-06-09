@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=dd0afc"/>
 
 <div align="center">
   <samp>
@@ -7,7 +7,9 @@
     </b>
       <br>
       Hi there! I'm Pedro Augusto
+      <br> Software Engineering Student - UNDB
       <br>
+    
   </samp>
 </div>
 <div align="center">
@@ -18,14 +20,14 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlkY3ozaWtubDh6b2F1bTlyenVjcHV4empseTlwcDl1ZDZiYzRpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/Pdr-000000" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=900&size=21&pause=1000&color=9B07B1&center=true&vCenter=true&width=435&lines=Faaala+Dev.+Me+chamo+Pedro!;Seja+bem-vindo!;Hi%2C+Dev!+I'm+Pedro!;I'm+from+Brazil!;I+am+a+Software+Engineering+Student!;Welcome!" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -125,4 +127,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=100&section=footer"/>
